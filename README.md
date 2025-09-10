@@ -37,6 +37,6 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=acheronx0577&theme=aura&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&title_color=B02A5E&text_color=FF78A7&hide_border=true&border_radius=10" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=acheronx0577&repo=https://github.com/acheronx0577?tab=repositories&theme=aura&cache_seconds=1800&border_radius=4&show_owner=false&title_color=B02A5E&text_color=FF78A7" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=acheronx0577&repo=https://github.com/acheronx0577?tab=repositories&theme=aura&cache_seconds=1800&border_radius=4&show_owner=true&title_color=B02A5E&text_color=FF78A7&hide_border=true" alt="GitHub repo-card Card" />
 </p>
 
