@@ -19,9 +19,9 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 3D Modeler in python!**
+- 💼 I'm currently working on: **💻 Fullstack website!**
 - 🌱 I'm currently learning: **📚 Exploring React, Node, JavaScript, CSS, and Python**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, CSS, and Python**
+- 💬 Ask me about: **💡 JavaScript, CSS, and Python**
 - ⚡ Fun fact: **🎢 I once debugged a issue while watching movies with my girlfriend!**
 
  **<h3 align="left">Skills</h3>**
