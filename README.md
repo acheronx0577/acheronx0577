@@ -31,7 +31,7 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=acheronx0577&theme=aura&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=25&hide_border=true&title_color=B02A5E&text_color=D4D4D4&border_radius=10&rank_icon=percentile&number_format=long&text_bold=true&show=reviews" alt="GitHub stats Card" /> 
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=acheronx0577&theme=aura&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=25&hide_border=true&title_color=B02A5E&text_color=D4D4D4&border_radius=10&rank_icon=percentile&number_format=long&text_bold=true&show=reviews" alt="GitHub stats Card" /> 
   
   ![Image](https://github.com/user-attachments/assets/14889d0e-26db-4fa6-8026-6312c9b4636e)
 </p>
