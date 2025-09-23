@@ -32,7 +32,7 @@
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=acheronx0577&theme=aura&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=25&hide_border=true&title_color=B02A5E&text_color=D4D4D4&border_radius=10&rank_icon=percentile&number_format=long&text_bold=true&show=reviews" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=acheronx0577&theme=aura&hide_border=true&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&stroke=B02A5E&fire=FF7878&sideNums=D4D4D4&sideLabels=B02A5E&excludeDaysLabel=FF78A7&border_radius=10&ring=B02A5E&currStreakNum=D4D4D4&currStreakLabel=B02A5E&dates=FF78A7" alt="GitHub streak Card" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=acheronx0577&theme=aura&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_height=200&background=50%2C760A11%2C310C69C5&stroke=FF1D5E&ring=C1184E&fire=EB4511&currStreakNum=EB5454&sideNums=EB5454&currStreakLabel=FF8F62&sideLabels=FF8F62&dates=EB5454)](https://git.io/streak-stats)
 </p>
 
 <p align="left">
