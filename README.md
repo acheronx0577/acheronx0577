@@ -1,6 +1,6 @@
 ![👋 Hi, my name is Richard Huynh!](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=B02A5E&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=B02A5E&style=flat-square&gradient=custom&fill=linear-gradient%28to%20right%2C%206a0dad%2C%20B02A5E%29)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
