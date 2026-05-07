@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=acheronx0577">
-    <img src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=91b6d6&style=flat-square" alt="acheronx0577's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=8aaece&style=flat-square" alt="acheronx0577's profile views" />
   </a>
 </p>
 
