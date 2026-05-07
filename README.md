@@ -14,8 +14,8 @@
   <img height="160em" src="https://streak-stats.demolab.com/?user=acheronx0577&theme=prussian&hide_border=true&cache_seconds=86400" />
 </p>
 
-<p align="center">   
-  <img height="165em" src="__https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=650__" alt="Top Languages" /> 
+<p align="center">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=650" alt="Top Languages" />
 </p>
 
 ## 🛠️ Languages & Tools
