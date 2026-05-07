@@ -1,9 +1,14 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AcheronX.</h1>
-<h3 align="center">Software Engineer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=84abce&style=flat" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=84abce&style=flat" />
+    </td>
+    <td align="right">
+      <h1>Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AcheronX.</h1>
+      <h3>Software Engineer</h3>
+    </td>
+  </tr>
+</table>
 
 <img src="https://i.imgur.com/10TKwRv.png" alt="Banner" width="100%" />
 
