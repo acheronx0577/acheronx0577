@@ -38,13 +38,17 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,vscode,figma,postman,vite&perline=10" />
 </p>
 
+<br/>
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
+<br/>
+
 <div align="center">
   <img src="https://i.imgur.com/y2xbTPe.jpeg" alt="Bottom Line" width="100%" />
 </div>
-
