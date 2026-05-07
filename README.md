@@ -6,8 +6,12 @@
 
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AcheronX.</h1>
 
-<img src="https://i.imgur.com/10TKwRv.png" alt="Banner" width="100%" />
-
+<a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
+  <img src="https://i.imgur.com/10TKwRv.png" alt="Banner by @jia_hagi0826" width="100%" />
+</a>
+<p align="right">
+  <sub>🎨 Banner by <a href="https://www.instagram.com/jia_hagi0826/">@jia_hagi0826</a></sub>
+</p>
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=acheronx0577&cache_seconds=7200&layout=compact&theme=prussian&hide_border=true" />
   <img height="160em" src="https://streak-stats.demolab.com/?user=acheronx0577&theme=prussian&hide_border=true&cache_seconds=86400" />
