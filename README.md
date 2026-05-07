@@ -29,19 +29,19 @@
 
 ## 💠 About Me
 
-> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Home.svg" width="20"/> &nbsp; **Location** &nbsp;—&nbsp; Your city / country
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Home.svg" width="22"/> &nbsp; **Location** &nbsp;—&nbsp; Your city / country
 
-> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Laptop.svg" width="20"/> &nbsp; **Currently working on** &nbsp;—&nbsp; Your current project or role
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Laptop.svg" width="22"/> &nbsp; **Currently working on** &nbsp;—&nbsp; Your current project or role
 
-> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Learn.svg" width="20"/> &nbsp; **Currently learning** &nbsp;—&nbsp; A language, framework, or concept
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Learn.svg" width="22"/> &nbsp; **Currently learning** &nbsp;—&nbsp; A language, framework, or concept
 
-> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Heart.svg" width="20"/> &nbsp; **Passionate about** &nbsp;—&nbsp; What gets you excited in tech
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Heart.svg" width="22"/> &nbsp; **Passionate about** &nbsp;—&nbsp; What gets you excited in tech
 
-> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Github.svg" width="20"/> &nbsp; **Looking to collaborate on** &nbsp;—&nbsp; Open source / specific type of project
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Github.svg" width="22"/> &nbsp; **Looking to collaborate on** &nbsp;—&nbsp; Open source / specific type of project
 
-> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Discord.svg" width="20"/> &nbsp; **Ask me about** &nbsp;—&nbsp; Your strongest topic or niche
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Discord.svg" width="22"/> &nbsp; **Ask me about** &nbsp;—&nbsp; Your strongest topic or niche
 
-> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Coffee.svg" width="20"/> &nbsp; **Fun fact** &nbsp;—&nbsp; Something unexpected about you
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Coffee.svg" width="22"/> &nbsp; **Fun fact** &nbsp;—&nbsp; Something unexpected about you
 
 <br>
 
