@@ -63,45 +63,8 @@
     <td>Something unexpected about you</td>
   </tr>
 </table>
-<br>
 
-<table>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=home&color=84abce&size=28" width="28"/></td>
-    <td><b>Location</b></td>
-    <td>Your city / country</td>
-  </tr>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=laptop&color=84abce&size=28" width="28"/></td>
-    <td><b>Currently working on</b></td>
-    <td>Your current project or role</td>
-  </tr>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=lightbulb&color=84abce&size=28" width="28"/></td>
-    <td><b>Currently learning</b></td>
-    <td>A language, framework, or concept</td>
-  </tr>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=heart&color=84abce&size=28" width="28"/></td>
-    <td><b>Passionate about</b></td>
-    <td>What gets you excited in tech</td>
-  </tr>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=github&color=84abce&size=28" width="28"/></td>
-    <td><b>Looking to collaborate on</b></td>
-    <td>Open source / specific type of project</td>
-  </tr>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=email&color=84abce&size=28" width="28"/></td>
-    <td><b>Ask me about</b></td>
-    <td>Your strongest topic or niche</td>
-  </tr>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=star&color=84abce&size=28" width="28"/></td>
-    <td><b>Fun fact</b></td>
-    <td>Something unexpected about you</td>
-  </tr>
-</table>Share
+<br>
 
 **Languages**
 <p align="center">
