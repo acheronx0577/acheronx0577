@@ -43,10 +43,6 @@
 
 > <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Coffee.svg" width="22"/> &nbsp; **Fun fact** &nbsp;—&nbsp; I hate messy things — including code
 
-<img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Home.svg" width="22"/> &nbsp; **Location** &nbsp;—&nbsp; United States
-
-<img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Laptop.svg" width="22"/> &nbsp; **Currently working on** &nbsp;—&nbsp; Production Website about Mental Health and Convenient Tools
-
 <br>
 
 **Languages**
