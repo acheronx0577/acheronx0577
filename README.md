@@ -29,14 +29,17 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=10" />
 </p>
+
 **Frontend**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=10" />
 </p>
+
 **Backend & Database**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,redis&perline=10" />
 </p>
+
 **DevOps & Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,vscode,figma,postman,vite&perline=10" />
