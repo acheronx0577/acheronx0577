@@ -26,6 +26,11 @@
   <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=550" />
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=acheronx0577&repo=JavaScript-Algorithms-and-Data-Structures&theme=prussian&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=acheronx0577&repo=JavaScript-Algorithms-and-Data-Structures&theme=prussian&hide_border=true" />
+</p>
+
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&pause=1000&color=90CAF9&width=300&height=48&vCenter=true&loop=false&lines=💠+About+Me" />
