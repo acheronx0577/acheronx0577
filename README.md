@@ -6,6 +6,22 @@
 
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AcheronX. <img align="right" src="https://img.shields.io/badge/Software%20Engineer-172f45?style=for-the-badge&labelColor=172f45&color=84abce" />  </h1>
 
+<table width="100%" border="0">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=84abce&style=for-the-badge" />
+    </td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/Software%20Engineer-172f45?style=for-the-badge&labelColor=172f45&color=84abce" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h1>Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AcheronX.</h1>
+    </td>
+  </tr>
+</table>
+
 <a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
   <img src="https://i.imgur.com/10TKwRv.png" alt="Banner by @jia_hagi0826" width="100%" />
 </a>
