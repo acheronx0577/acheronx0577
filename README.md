@@ -35,31 +35,27 @@
 </p>
 
 <p align="center">
-  <strong>Languages</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=4" />
-</p>
-
-<p align="center">
-  <strong>Frontend</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5" />
+  <span>
+    <strong>Languages</strong><br/>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=4" />
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <strong>Frontend</strong><br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5" />
+  </span>
 </p>
 
 <p align="center">
-  <strong>Backend & Database</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,redis&perline=5" />
-</p>
-
-<p align="center">
-  <strong>DevOps & Tools</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,vscode,figma,postman,vite&perline=8" />
+  <span>
+    <strong>Backend & Database</strong><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,redis&perline=5" />
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <strong>DevOps & Tools</strong><br/>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,vscode,figma,postman,vite&perline=8" />
+  </span>
 </p>
 
 <br/>
