@@ -2,8 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=acheronx0577&style=flat&color=172f45" height="0" width="0" />
-  <img src="https://img.shields.io/badge/Profile%20Views-acheronx0577-a2c3e1?style=flat&labelColor=172f45&color=84abce" />
+  <img src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=84abce&style=flat" />
 </p>
 
 <img src="https://i.imgur.com/10TKwRv.png" alt="Banner" width="100%" />
