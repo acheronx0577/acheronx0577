@@ -18,8 +18,6 @@
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=650" alt="Top Languages" />
 </p>
 
-## 🛠️ Languages & Tools
-
 **Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=10" />
