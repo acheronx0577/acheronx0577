@@ -26,43 +26,22 @@
 </p>
 
 <br>
-<table>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=home&color=84abce&size=28" width="28"/></td>
-    <td><b>Location</b></td>
-    <td>Your city / country</td>
-  </tr>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=laptop&color=84abce&size=28" width="28"/></td>
-    <td><b>Currently working on</b></td>
-    <td>Your current project or role</td>
-  </tr>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=bookstack&color=84abce&size=28" width="28" /></td>
-    <td><b>Currently learning</b></td>
-    <td>A language, framework, or concept</td>
-  </tr>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=heart&color=84abce&size=28" width="28" /></td>
-    <td><b>Passionate about</b></td>
-    <td>What gets you excited in tech</td>
-  </tr>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=github&color=84abce&size=28" width="28" /></td>
-    <td><b>Looking to collaborate on</b></td>
-    <td>Open source / specific type of project</td>
-  </tr>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=messenger&color=84abce&size=28" width="28" /></td>
-    <td><b>Ask me about</b></td>
-    <td>Your strongest topic or niche</td>
-  </tr>
-  <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=buymeacoffee&color=84abce&size=28" width="28" /></td>
-    <td><b>Fun fact</b></td>
-    <td>Something unexpected about you</td>
-  </tr>
-</table>
+
+## 💠 About Me
+
+> <img src="https://www.readmecodegen.com/api/social-icon?name=home&color=84abce&size=20" width="20"/> &nbsp; **Location** &nbsp;—&nbsp; Your city / country
+
+> <img src="https://www.readmecodegen.com/api/social-icon?name=laptop&color=84abce&size=20" width="20"/> &nbsp; **Currently working on** &nbsp;—&nbsp; Your current project or role
+
+> <img src="https://www.readmecodegen.com/api/social-icon?name=lightbulb&color=84abce&size=20" width="20"/> &nbsp; **Currently learning** &nbsp;—&nbsp; A language, framework, or concept
+
+> <img src="https://www.readmecodegen.com/api/social-icon?name=heart&color=84abce&size=20" width="20"/> &nbsp; **Passionate about** &nbsp;—&nbsp; What gets you excited in tech
+
+> <img src="https://www.readmecodegen.com/api/social-icon?name=github&color=84abce&size=20" width="20"/> &nbsp; **Looking to collaborate on** &nbsp;—&nbsp; Open source / specific type of project
+
+> <img src="https://www.readmecodegen.com/api/social-icon?name=email&color=84abce&size=20" width="20"/> &nbsp; **Ask me about** &nbsp;—&nbsp; Your strongest topic or niche
+
+> <img src="https://www.readmecodegen.com/api/social-icon?name=star&color=84abce&size=20" width="20"/> &nbsp; **Fun fact** &nbsp;—&nbsp; Something unexpected about you
 
 <br>
 
