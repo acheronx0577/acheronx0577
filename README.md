@@ -4,8 +4,11 @@
 
 <br/>
 
-<h1 align="left">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AcheronX. <img align="right" src="https://img.shields.io/badge/Software%20Engineer-172f45?style=for-the-badge&labelColor=172f45&color=84abce" />  </h1>
-
+<p align="left">
+  <strong><font size="6">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AcheronX.</strong>
+  <img align="right" src="https://img.shields.io/badge/Software%20Engineer-172f45?style=for-the-badge&labelColor=172f45&color=84abce" />
+</p>
+    
 <a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
   <img src="https://i.imgur.com/10TKwRv.png" alt="Banner by @jia_hagi0826" width="100%" />
 </a>
