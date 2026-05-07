@@ -74,9 +74,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/acheronx0577">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&border_radius=10" alt="Top Languages" />
-  </a>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true" alt="Top Languages" />
 </p>
 
 <picture>
