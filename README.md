@@ -27,7 +27,7 @@
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=550" />
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acheronx0577&repo=JavaScript-Data-Structures-Algorithms)](https://github.com/acheronx0577/JavaScript-Algorithms-and-Data-Structures)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acheronx0577&repo=JavaScript-Algorithms-and-Data-Structures)](https://github.com/acheronx0577/JavaScript-Algorithms-and-Data-Structures)
 
 <br>
 
