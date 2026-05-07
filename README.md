@@ -26,15 +26,6 @@
 </p>
 
 <p align="center">
-  <strong>Languages</strong> &nbsp;&nbsp;&nbsp; <strong>Frontend</strong>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=4" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5" />
-</p>
-
-<p align="center">
   <span>
     <strong>Languages</strong><br/>
     <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=4" />
