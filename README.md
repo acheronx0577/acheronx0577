@@ -33,7 +33,7 @@
 
 > <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Laptop.svg" width="22"/> &nbsp; **Currently working on** &nbsp;—&nbsp; Your current project or role
 
-> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Learn.svg" width="22"/> &nbsp; **Currently learning** &nbsp;—&nbsp; A language, framework, or concept
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Learn.svg" width="22"/> &nbsp; **Currently learning** &nbsp;—&nbsp; WebGL and 3d Animations
 
 > <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Heart.svg" width="22"/> &nbsp; **Passionate about** &nbsp;—&nbsp; What gets you excited in tech
 
