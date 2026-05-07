@@ -28,7 +28,7 @@
 <br>
 <table>
   <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=googlemaps&color=84abce&size=28" width="28" /></td>
+    <td><img src="https://www.readmecodegen.com/api/social-icon?name=home&color=84abce&size=28" width="28"/></td>
     <td><b>Location</b></td>
     <td>Your city / country</td>
   </tr>
