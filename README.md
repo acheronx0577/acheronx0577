@@ -26,13 +26,20 @@
 </p>
 
 <p align="center">
+  <strong>Languages</strong> &nbsp;&nbsp;&nbsp; <strong>Frontend</strong>
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=4" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5" />
+</p>
+
+<p align="center">
+  <strong>Backend & Database</strong> &nbsp;&nbsp;&nbsp; <strong>DevOps & Tools</strong>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,redis&perline=5" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,vscode,figma,postman,vite&perline=8" />
 </p>
 
