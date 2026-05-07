@@ -13,6 +13,7 @@
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=acheronx0577&cache_seconds=7200&layout=compact&theme=prussian&hide_border=true" />
   <img height="165em" src="https://streak-stats.demolab.com/?user=acheronx0577&theme=prussian&hide_border=true&cache_seconds=86400" />
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=acheronx0577&bg_color=172f45&color=90CAF9&line=a2c3e1&point=BBDEFB&area=true&area_color=9abfe0&hide_border=true&radius=10" alt="acheronx0577's Activity Graph" />
 </p>
 
 ## 🛠️ Languages & Tools
