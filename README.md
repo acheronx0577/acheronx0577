@@ -43,15 +43,9 @@
 
 > <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Coffee.svg" width="22"/> &nbsp; **Fun fact** &nbsp;—&nbsp; I hate messy things — including code
 
-<table border="0" cellspacing="0" cellpadding="6">
-  <tr><td><img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Home.svg" width="22"/></td><td><b>Location</b> &nbsp;—&nbsp; United States</td></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Laptop.svg" width="22"/></td><td><b>Currently working on</b> &nbsp;—&nbsp; Production Website about Mental Health and Convenient Tools</td></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Learn.svg" width="22"/></td><td><b>Currently learning</b> &nbsp;—&nbsp; WebGL and 3D Animations</td></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Heart.svg" width="22"/></td><td><b>Passionate about</b> &nbsp;—&nbsp; GSAP and WebGL really hook me into it</td></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Github.svg" width="22"/></td><td><b>Looking to collaborate on</b> &nbsp;—&nbsp; Any open source / specific type of project</td></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Discord.svg" width="22"/></td><td><b>Ask me about</b> &nbsp;—&nbsp; Anything</td></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Coffee.svg" width="22"/></td><td><b>Fun fact</b> &nbsp;—&nbsp; I hate messy things — including code</td></tr>
-</table>
+<img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Home.svg" width="22"/> &nbsp; **Location** &nbsp;—&nbsp; United States
+
+<img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Laptop.svg" width="22"/> &nbsp; **Currently working on** &nbsp;—&nbsp; Production Website about Mental Health and Convenient Tools
 
 <br>
 
