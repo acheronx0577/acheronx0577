@@ -5,7 +5,7 @@
 <br/>
 
 <p align="left">
-  <strong><font size="30">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AcheronX.</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=90CAF9&width=500&lines=Hey+👋+I'm+AcheronX." alt="Typing SVG" />
   <img align="right" src="https://img.shields.io/badge/Software%20Engineer-172f45?style=for-the-badge&labelColor=172f45&color=84abce" />
 </p>
     
