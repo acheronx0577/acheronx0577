@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=500" alt="Top Languages" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=800" alt="Top Languages" />
 </p>
 
 ## 🛠️ Languages & Tools
