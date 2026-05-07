@@ -37,11 +37,11 @@
 
 > <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Heart.svg" width="22"/> &nbsp; **Passionate about** &nbsp;—&nbsp; GSAP and WebGL really hook me into it
 
-> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Github.svg" width="22"/> &nbsp; **Looking to collaborate on** &nbsp;—&nbsp; Any Open source / Specific type of project
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Github.svg" width="22"/> &nbsp; **Looking to collaborate on** &nbsp;—&nbsp; Any open source / specific type of project
 
 > <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Discord.svg" width="22"/> &nbsp; **Ask me about** &nbsp;—&nbsp; Anything
 
-> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Coffee.svg" width="22"/> &nbsp; **Fun fact** &nbsp;—&nbsp; I hate messy thing including codes
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Coffee.svg" width="22"/> &nbsp; **Fun fact** &nbsp;—&nbsp; I hate messy things — including code
 
 <br>
 
