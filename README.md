@@ -33,7 +33,7 @@
     <td>Your city / country</td>
   </tr>
   <tr>
-    <td><img src="https://www.readmecodegen.com/api/social-icon?name=visualstudiocode&color=84abce&size=28" width="28" /></td>
+    <td><img src="https://www.readmecodegen.com/api/social-icon?name=laptop&color=84abce&size=28" width="28"/></td>
     <td><b>Currently working on</b></td>
     <td>Your current project or role</td>
   </tr>
