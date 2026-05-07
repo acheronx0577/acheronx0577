@@ -9,8 +9,6 @@
 
 <img src="https://i.imgur.com/10TKwRv.png" alt="Banner" width="100%" />
 
-## 📊 GitHub Stats & Trophies
-
 <div align="center">
 
 | Stats | Streak |
