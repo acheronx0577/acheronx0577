@@ -5,7 +5,7 @@
 <br/>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=32&pause=1000&color=90CAF9&width=500&height=50&lines=Hey+I'm+AcheronX.;I+love+Smooth+Website+Animation.;You+can+call+me+Hades." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=32&pause=1000&color=90CAF9&width=500&height=50&lines=Hey+I'm+AcheronX .;I+love+Smooth+Website+Animation .;You+can+call+me+Hades ." alt="Typing SVG" />
   <img align="right" src="https://img.shields.io/badge/Software%20Engineer-172f45?style=for-the-badge&labelColor=172f45&color=84abce" />
 </p>
     
