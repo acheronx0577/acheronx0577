@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=acheronx0577&repo=JavaScript-Algorithms-and-Data-Structures&theme=prussian&hide_border=true&border_color=0d1117&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=acheronx0577&repo=JavaScript-Algorithms-and-Data-Structures&theme=prussian&hide_border=true&border_color=00000000" />
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=550" />
 </p>
 
