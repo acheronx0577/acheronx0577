@@ -51,6 +51,9 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://i.imgur.com/y2xbTPe.jpeg" alt="Bottom Line" width="100%" />
-</div>
+<a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
+  <img src="https://i.imgur.com/y2xbTPe.jpeg" alt="Bottom banner inspired by @jia_hagi0826" width="100%" />
+</a>
+<p align="right">
+  <sub>🎨 Art style by <a href="https://www.instagram.com/jia_hagi0826/">@jia_hagi0826</a> · AI generated</sub>
+</p>
