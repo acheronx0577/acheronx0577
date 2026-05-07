@@ -1,7 +1,11 @@
-<img align="left" src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=84abce&style=flat" />
-<img align="right" src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px" />
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AcheronX.</h1>
+<h3 align="center">Software Engineer</h3>
 
-<h1 align="center">Hey I'm AcheronX.</h1>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=84abce&style=flat" />
+</p>
+
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AcheronX.</h1>
 <h3 align="center">Software Engineer</h3>
 
 <img src="https://i.imgur.com/10TKwRv.png" alt="Banner" width="100%" />
