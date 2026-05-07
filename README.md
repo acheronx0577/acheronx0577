@@ -27,7 +27,7 @@
 
 <br>
 
-**💠 About Me**
+***💠 About Me***
 
 > <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Home.svg" width="22"/> &nbsp; **Location** &nbsp;—&nbsp; United States
 
