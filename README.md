@@ -1,7 +1,4 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=84abce&style=flat" />
-</p>
-
+<img align="left" src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=84abce&style=flat" />
 <h3 align="right">Software Engineer</h3>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AcheronX.</h1>
