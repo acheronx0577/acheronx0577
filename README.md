@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=acheronx0577&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&area_color=00FFFF&hide_border=true&radius=10" alt="acheronx0577's Activity Graph" />
+  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=acheronx0577&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&area_color=00FFFF&hide_border=true&radius=10" alt="acheronx0577's Activity Graph" />
 </p>
 
 ## 🛠️ Languages & Tools
