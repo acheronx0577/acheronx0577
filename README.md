@@ -9,13 +9,10 @@
 
 <img src="https://i.imgur.com/10TKwRv.png" alt="Banner" width="100%" />
 
-<div align="center">
-
-| | |
-|---|---|
-| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=acheronx0577&cache_seconds=7200&layout=compact&theme=prussian&hide_border=true) | ![Streak](https://streak-stats.demolab.com/?user=acheronx0577&theme=prussian&hide_border=true&cache_seconds=86400) |
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=acheronx0577&cache_seconds=7200&layout=compact&theme=prussian&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=acheronx0577&theme=prussian&hide_border=true&cache_seconds=86400" />
+</p>
 
 
 ## 🛠️ Languages & Tools
