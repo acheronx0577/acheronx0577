@@ -14,7 +14,10 @@
   <a href="https://github.com/acheronx0577">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=acheronx0577&cache_seconds=7200&layout=compact&theme=prussian&border_radius=10" alt="acheronx0577's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=acheronx0577&theme=prussian&hide_border=true&cache_seconds=86400" alt="acheronx0577's GitHub Streak" width="49%" />
+  &nbsp;
+  <a href="https://github.com/acheronx0577">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=acheronx0577&theme=prussian&hide_border=true&cache_seconds=86400" alt="acheronx0577's GitHub Streak" />
+  </a>
 </p>
 
 
