@@ -25,26 +25,21 @@
   <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=550" />
 </p>
 
-<p>
-  <span align="left">
-    <strong>Languages</strong><br/>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=4" />
-  </span>
-  <span align="right">
-    <strong>Frontend</strong><br/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=5" />
-  </span>
+**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=10" />
 </p>
-
-<p>
-  <span align="left">
-    <strong>Backend & Database</strong><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,redis&perline=5" />
-  </span>
-  <span align="right">
-    <strong>DevOps & Tools</strong><br/>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,vscode,figma,postman,vite&perline=8" />
-  </span>
+**Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=10" />
+</p>
+**Backend & Database**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,redis&perline=10" />
+</p>
+**DevOps & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,vscode,figma,postman,vite&perline=10" />
 </p>
 
 <br/>
