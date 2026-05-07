@@ -29,7 +29,7 @@
 
 ## 💠 About Me
 
-> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Home.svg" width="22"/> &nbsp; **Location** &nbsp;—&nbsp; Your city / country
+> <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Home.svg" width="22"/> &nbsp; **Location** &nbsp;—&nbsp; United States
 
 > <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Laptop.svg" width="22"/> &nbsp; **Currently working on** &nbsp;—&nbsp; Your current project or role
 
