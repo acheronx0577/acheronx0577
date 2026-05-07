@@ -2,9 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=acheronx0577">
-    <img src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=172f45&style=for-the-badge" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=172f45&style=flat" />
 </p>
 
 <img src="https://i.imgur.com/10TKwRv.png" alt="Banner" width="100%" />
