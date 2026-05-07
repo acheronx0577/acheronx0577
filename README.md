@@ -1,6 +1,7 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=84abce&style=flat" />
-<img align="right" src="https://img.shields.io/badge/Software%20Engineer-172f45?style=flat-square&labelColor=0d1f33&color=0d1f33" />
+<img align="right" src="https://img.shields.io/badge/Software%20Engineer-172f45?style=for-the-badge&labelColor=172f45&color=84abce" />
 <br clear="both"/>
+
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm AcheronX.</h1>
 
 <img src="https://i.imgur.com/10TKwRv.png" alt="Banner" width="100%" />
