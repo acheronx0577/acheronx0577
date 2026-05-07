@@ -1,5 +1,5 @@
 <p>
- <img align="right" src="https://img.shields.io/badge/Software%20Engineer-84abce?style=social&logo=&labelColor=172f45" /> <img align="left" src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=84abce&style=flat" /> 
+   <img align="right" src="https://img.shields.io/badge/Software%20Engineer-172f45?style=plastic&labelColor=172f45&color=84abce" /> <img align="left" src="https://komarev.com/ghpvc/?username=acheronx0577&label=Profile%20views&color=84abce&style=flat" /> 
 </p>
 
 
