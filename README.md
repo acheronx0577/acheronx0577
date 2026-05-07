@@ -17,10 +17,11 @@
 <p align="center">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=650" alt="Top Languages" />
 </p>
-## 🛠️ Languages & Tools
+
+# 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,vue,nextjs,html,css,tailwind,nodejs,express,postgresql,mongodb,redis,docker,kubernetes,aws,git,vscode,figma,postman,vite&perline=12" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,html,css,tailwind,nodejs,express,postgresql,mongodb,redis,docker,kubernetes,aws,git,vscode,figma,postman,vite&perline=11" />
 </p>
 
 <picture>
