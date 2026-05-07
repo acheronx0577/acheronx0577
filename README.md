@@ -12,13 +12,14 @@
 <p align="right">
   <sub>🎨 Banner by <a href="https://www.instagram.com/jia_hagi0826/">@jia_hagi0826</a></sub>
 </p>
+
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=acheronx0577&cache_seconds=7200&layout=compact&theme=prussian&hide_border=true" />
-  <img height="160em" src="https://streak-stats.demolab.com/?user=acheronx0577&theme=prussian&hide_border=true&cache_seconds=86400" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=acheronx0577&cache_seconds=7200&layout=compact&theme=prussian&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=acheronx0577&theme=prussian&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=650" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=450" />
 </p>
 
 **Languages**
