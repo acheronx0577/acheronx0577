@@ -39,7 +39,7 @@
 
 > <img src="https://www.readmecodegen.com/api/social-icon?name=github&color=84abce&size=20" width="20"/> &nbsp; **Looking to collaborate on** &nbsp;—&nbsp; Open source / specific type of project
 
-> <img src="https://www.readmecodegen.com/api/social-icon?name=email&color=84abce&size=20" width="20"/> &nbsp; **Ask me about** &nbsp;—&nbsp; Your strongest topic or niche
+> <img src="https://www.readmecodegen.com/api/social-icon?name=discord&color=84abce&size=20" width="20"/> &nbsp; **Ask me about** &nbsp;—&nbsp; Your strongest topic or niche
 
 > <img src="https://www.readmecodegen.com/api/social-icon?name=star&color=84abce&size=20" width="20"/> &nbsp; **Fun fact** &nbsp;—&nbsp; Something unexpected about you
 
