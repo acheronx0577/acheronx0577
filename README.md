@@ -14,6 +14,9 @@
   <img height="165em" src="https://streak-stats.demolab.com/?user=acheronx0577&theme=prussian&hide_border=true&cache_seconds=86400" />
 </p>
 
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=acheronx0577&theme=prussian&radius=10" alt="acheronx0577's Activity Graph" />
+</p>
 
 ## 🛠️ Languages & Tools
 
