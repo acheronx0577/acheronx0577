@@ -93,12 +93,6 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/acheronx0577/acheronx0577/main/assets/bar_graph.png)
-
-
  Last Updated on 09/05/2026 01:27:11 UTC
 <!--END_SECTION:waka-->
 
