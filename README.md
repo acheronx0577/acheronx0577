@@ -27,17 +27,19 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-348-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 121.9 kB Used in GitHub's Storage 
+> 📦 122.0 kB Used in GitHub's Storage 
  > 
 > 🏆 711 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 71 Public Repositories 
+> 📜 73 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
@@ -45,19 +47,19 @@
 
 ```text
 🌞 Morning                676 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-🌆 Daytime                4995 commits        ██████████████████░░░░░░░   72.78 % 
-🌃 Evening                924 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+🌆 Daytime                4995 commits        ██████████████████░░░░░░░   72.76 % 
+🌃 Evening                926 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 🌙 Night                  268 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   412 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Tuesday                  2629 commits        ██████████░░░░░░░░░░░░░░░   38.31 % 
+Tuesday                  2629 commits        ██████████░░░░░░░░░░░░░░░   38.30 % 
 Wednesday                595 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 Thursday                 543 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Friday                   1159 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Saturday                 1032 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Friday                   1161 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Saturday                 1032 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 Sunday                   493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 ```
 
@@ -83,17 +85,21 @@ No Activity Tracked This Week
 **I Mostly Code in CSS** 
 
 ```text
-CSS                      41 repos            █████████████░░░░░░░░░░░░   52.56 % 
-JavaScript               21 repos            ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+CSS                      41 repos            █████████████░░░░░░░░░░░░   51.90 % 
+JavaScript               21 repos            ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 
 
 
+**Timeline**
 
- Last Updated on 09/05/2026 01:43:04 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/acheronx0577/acheronx0577/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/05/2026 02:15:20 UTC
 <!--END_SECTION:waka-->
 
 <br>
