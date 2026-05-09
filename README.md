@@ -28,7 +28,7 @@
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-348-blue?style=flat)
+![Profile Views](https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/waka-stats.svg)
 
 **🐱 My GitHub Data** 
 
