@@ -30,28 +30,6 @@
 
 ![Profile Views](https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/waka-stats.svg)
 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                676 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-🌆 Daytime                4995 commits        ██████████████████░░░░░░░   72.76 % 
-🌃 Evening                926 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-🌙 Night                  268 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   412 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Tuesday                  2629 commits        ██████████░░░░░░░░░░░░░░░   38.30 % 
-Wednesday                595 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Thursday                 543 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Friday                   1161 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Saturday                 1032 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Sunday                   493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -69,24 +47,6 @@ No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
 ```
-
-**I Mostly Code in CSS** 
-
-```text
-CSS                      41 repos            █████████████░░░░░░░░░░░░   51.90 % 
-JavaScript               21 repos            ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/acheronx0577/acheronx0577/main/assets/bar_graph.png)
-
-
  Last Updated on 09/05/2026 02:15:20 UTC
 
 <br>
