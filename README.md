@@ -26,8 +26,6 @@
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=550" />
 </p>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue?style=flat)
-
 ![Profile Views](https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/waka-stats.svg)
 
 📊 **This Week I Spent My Time On** 
