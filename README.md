@@ -49,7 +49,7 @@ No Activity Tracked This Week
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=90CAF9&width=400&height=48&vCenter=true&repeat=true&lines=%F0%9F%92%A0+About+Me;I'm+an+early+bird" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=90CAF9&width=400&height=48&vCenter=true&repeat=true&lines=%F0%9F%92%A0+About+Me;%F0%9F%92%A0+I'm+an+early+bird" />
 
 > <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Home.svg" width="22"/> &nbsp; **Location** &nbsp;—&nbsp; United States
 
