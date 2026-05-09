@@ -26,7 +26,6 @@
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=550" />
 </p>
 
-<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-348-blue?style=flat)
@@ -100,7 +99,6 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
  Last Updated on 09/05/2026 02:15:20 UTC
-<!--END_SECTION:waka-->
 
 <br>
 
