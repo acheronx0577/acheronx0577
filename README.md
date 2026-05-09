@@ -29,7 +29,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=30&pause=1000&color=90CAF9&width=300&height=48&vCenter=true&loop=false&lines=💠+About+Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=90CAF9&width=300&height=48&vCenter=true&repeat=false&lines=💠+About+Me" />
 
 > <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/Home.svg" width="22"/> &nbsp; **Location** &nbsp;—&nbsp; United States
 
