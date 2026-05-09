@@ -17,3 +17,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           BADGE_STYLE: "for-the-badge"
+          SHOW_SHORT_INFO: "False"
