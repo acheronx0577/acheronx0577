@@ -30,18 +30,7 @@
 
 ![Profile Views](https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/waka-stats.svg)
 
-**🐱 My GitHub Data** 
 
-> 📦 122.0 kB Used in GitHub's Storage 
- > 
-> 🏆 711 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 73 Public Repositories 
- > 
-> 🔑 12 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
