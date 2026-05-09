@@ -67,6 +67,9 @@ No Activity Tracked This Week
 
 <br>
 
+[Live Demo](https://acheronx0577.github.io/JavaScript-Building-a-Spam-Filter/)
+
+
 **Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=10" />
