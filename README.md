@@ -22,10 +22,6 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=acheronx0577&theme=prussian&hide_border=true&cache_seconds=86400" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=acheronx0577&langs_count=8&layout=compact&theme=prussian&hide_border=true&card_width=550" />
-</p>
-
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=90CAF9&width=400&height=48&vCenter=true&repeat=true&lines=%F0%9F%92%A0+About+Me;%F0%9F%92%A0+I'm+an+early+bird" />
 
 <div align="left">
