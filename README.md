@@ -30,7 +30,6 @@
 
 📊 **This Week I Spent My Time On** 
 
-```text
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
@@ -44,8 +43,10 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-```
+
  Last Updated on 09/05/2026 02:15:20 UTC
+
+[ddsds](https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/wakatime-weekly-stats.svg)
 
 <br>
 
