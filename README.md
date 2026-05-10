@@ -28,27 +28,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=90CAF9&width=400&height=48&vCenter=true&repeat=true&lines=%F0%9F%92%A0+About+Me;%F0%9F%92%A0+I'm+an+early+bird" />
 
-📊 **This Week I Spent My Time On** 
-
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
- Last Updated on 09/05/2026 02:15:20 UTC
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/wakatime-weekly-stats%20(1).svg" />
 </div>
+
+ Last Updated on 09/05/2026 02:15:20 UTC
 
 <br>
 
