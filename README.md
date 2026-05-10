@@ -25,8 +25,7 @@
 <br>
 
  <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=26&pause=1000&color=90CAF9&width=340&height=36&vCenter=true&repeat=true&lines=%F0%9F%92%A0+About+Me;%F0%9F%92%A0+I'm+an+early+bird" />
-  <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/wakatime-combined-fixed%20(4).svg" />
+  <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/wakatime-with-typing-v5.svg" />
 </div>
 
 <br>
