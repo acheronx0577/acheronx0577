@@ -25,7 +25,7 @@
 <br>
 
  <div align="left">
-  <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/wakatime-with-typing-v5.svg" />
+  <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/wakatime-with-typing-v7.svg" />
 </div>
 
 <br>
