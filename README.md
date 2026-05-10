@@ -25,10 +25,7 @@
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=90CAF9&width=400&height=48&vCenter=true&repeat=true&lines=%F0%9F%92%A0+About+Me;%F0%9F%92%A0+I'm+an+early+bird" />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/wakatime-combined-fixed%20(4).svg" />
-</div>
+<img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/wakatime-combined-fixed%20(4).svg" />
 
 <br>
 
