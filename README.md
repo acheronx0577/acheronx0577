@@ -22,6 +22,15 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=acheronx0577&theme=prussian&hide_border=true&cache_seconds=86400" />
 </p>
 
+<div align="center">
+  <a href="https://github.com/acheronx0577/REPO_ONE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=acheronx0577&repo=REPO_ONE&theme=prussian&hide_border=true" />
+  </a>
+  <a href="https://github.com/acheronx0577/REPO_TWO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=acheronx0577&repo=REPO_TWO&theme=prussian&hide_border=true" />
+  </a>
+</div>
+
  <div align="left">
   <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/wakatime-with-typing-v7.svg" />
 </div>
