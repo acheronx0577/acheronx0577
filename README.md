@@ -57,6 +57,12 @@
 
 <br>
 
+## Coding stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 **Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp&perline=10" />
