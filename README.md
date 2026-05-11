@@ -22,8 +22,6 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=acheronx0577&theme=prussian&hide_border=true&cache_seconds=86400" />
 </p>
 
-<br>
-
  <div align="left">
   <img src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/wakatime-with-typing-v7.svg" />
 </div>
