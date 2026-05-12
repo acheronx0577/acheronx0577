@@ -60,6 +60,75 @@
 ## Coding stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%209%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-636-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 122.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 968 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 74 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                724 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+🌆 Daytime                5327 commits        ██████████████████░░░░░░░   70.53 % 
+🌃 Evening                1169 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+🌙 Night                  333 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   478 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Tuesday                  2739 commits        █████████░░░░░░░░░░░░░░░░   36.26 % 
+Wednesday                633 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Thursday                 577 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Friday                   1301 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Saturday                 1183 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Sunday                   642 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Other                    43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Markdown                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+CSS                      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Image (svg)              28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 13 mins       ██████████████░░░░░░░░░░░   57.65 % 
+Antigravity              52 mins             ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Cursor                   45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+
+🐱‍💻 Projects: 
+waka-readme-stats        1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   32.81 % 
+files                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Downloads                22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Codebase                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+
+💻 Operating System: 
+Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/acheronx0577/acheronx0577/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/05/2026 20:18:43 UTC
 <!--END_SECTION:waka-->
 
 
