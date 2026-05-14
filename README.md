@@ -26,8 +26,8 @@
   <a href="https://github.com/acheronx0577/ReadME" style="text-decoration:none">
     <img width="48%" src="https://raw.githubusercontent.com/acheronx0577/ReadME/main/repo-card.svg" />
   </a>
-  <a href="https://github.com/acheronx0577/SVG-Icons-for-MD-Github" style="text-decoration:none">
-    <img width="48%" src="https://raw.githubusercontent.com/acheronx0577/SVG-Icons-for-MD-Github/refs/heads/main/repo-card.svg" />
+  <a href="https://github.com/acheronx0577/Wallpaper-Engine-GIF" style="text-decoration:none">
+    <img width="48%" src="https://raw.githubusercontent.com/acheronx0577/Wallpaper-Engine-GIF/refs/heads/main/assets/repo-card.svg" />
   </a>
 </p>
 
