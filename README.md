@@ -88,7 +88,7 @@
 <br/>
 
 <a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
-  <img src="https://i.imgur.com/y2xbTPe.jpeg" alt="Bottom banner inspired by @jia_hagi0826" width="100%" />
+  <img src="https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/Footer/animated_1080P.gif" alt="Bottom banner inspired by @jia_hagi0826" width="100%" />
 </a>
 <p align="right">
   <sub>🎨 Art style by <a href="https://www.instagram.com/jia_hagi0826/">@jia_hagi0826</a> · AI generated</sub>
