@@ -11,7 +11,7 @@
 </p>
     
 <a href="https://www.instagram.com/jia_hagi0826/" target="_blank">
-  <img src="https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p/jia_hagi0826_720p.gif" alt="Banner by @jia_hagi0826" width="100%" />
+  <img src="https://media.githubusercontent.com/media/acheronx0577/Wallpaper-Engine-GIF/main/720p%20or%20672p/jia_hagi0826_720p.gif" alt="Banner by @jia_hagi0826" width="100%" />
 </a>
 <p align="right">
   <sub>🎨 Banner by <a href="https://www.instagram.com/jia_hagi0826/">@jia_hagi0826</a></sub>
